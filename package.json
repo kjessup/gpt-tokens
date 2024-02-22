@@ -18,13 +18,13 @@
     },
     "exports": {
         ".": {
-            "import": "./dist/index.ts",
+            "import": "./dist/index.js",
             "require": "./dist/index.js"
         }
     },
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
-    "module": "dist/index.ts",
+    "module": "dist/index.js",
     "repository": "https://github.com/Cainier/gpt-tokens",
     "author": "Cainier <xingrong.dev@gmail.com>",
     "license": "MIT",
